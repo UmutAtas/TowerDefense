@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -280,6 +281,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      arrow: -2043017983467968750
+      joystick-knob: -5255625992875801819
+      joystick-back: -16152489283240338
+      button-X: -6272191123022298100
+      button-RT: 7559915108982176356
+      button-Y: 6632079902420416852
+      button-A: -5692379041328370936
+      button-B: -2357064464897517811
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

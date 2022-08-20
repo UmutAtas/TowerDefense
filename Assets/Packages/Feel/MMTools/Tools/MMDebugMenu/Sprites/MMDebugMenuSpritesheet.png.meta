@@ -42,6 +42,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -280,6 +281,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      MMDebugMenuSpritesheet_Button: 625495570938666278
+      MMDebugMenuSpritesheet_Check: -7532733284594389497
+      MMDebugMenuSpritesheet_ButtonBorder: 6146571745752970610
+      MMDebugMenuSpritesheet_Close: -7337850862703042025
+      MMDebugMenuSpritesheet_SliderKnob: -7524447440092966922
+      MMDebugMenuSpritesheet_Touch: -7225789431002005116
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

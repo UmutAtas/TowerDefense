@@ -99,6 +99,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -736,6 +737,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Dust_8: -4167334906893894227
+      Dust_17: 7184914488884311640
+      Dust_4: 952623855650433617
+      Dust_7: -5132074842684296794
+      Dust_20: 6981261848417969210
+      Dust_19: 8151196432992889693
+      Dust_23: 8183243169257206618
+      Dust_1: -5929832237704200204
+      Dust_24: 4949881794814601935
+      Dust_6: 4867414469933269289
+      Dust_16: -3720201005490435438
+      Dust_3: -2696115198898644070
+      Dust_9: 7712811751892379816
+      Dust_10: 8778968618952597531
+      Dust_22: 7172017812777354097
+      Dust_13: 128696812379698709
+      Dust_14: 2659908252812518693
+      Dust_12: -5233488869146944602
+      Dust_21: 3721310999147875956
+      Dust_15: 356068233938281049
+      Dust_0: 1670660276820739667
+      Dust_2: 3207967757382678166
+      Dust_11: 732066408308869517
+      Dust_5: -4267497323730781568
+      Dust_18: 1950286065093246947
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
