@@ -8,9 +8,9 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Material-1
-  m_Shader: {fileID: -6465566751694194690, guid: df5bb027d94a6c44bb32b3c31ec1303f, type: 3}
-  m_ShaderKeywords: TCP2_REFLECTIONS_FRESNEL TCP2_RIM_LIGHTING_LIGHTMASK TCP2_SHADOW_LIGHT_COLOR
-    TCP2_UV_NORMALS_FULL
+  m_Shader: {fileID: -6465566751694194690, guid: edd7abf643fa4bc4e8561d4c280c97cf, type: 3}
+  m_ShaderKeywords: TCP2_RAMP_BANDS TCP2_REFLECTIONS_FRESNEL TCP2_RIM_LIGHTING_LIGHTMASK
+    TCP2_SHADOW_LIGHT_COLOR
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -88,7 +88,7 @@ Material:
     m_Floats:
     - _BumpScale: 1
     - _Cull: 0
-    - _Cutoff: 0.5
+    - _Cutoff: 0
     - _DetailNormalMapScale: 1
     - _DirectIntensityOutline: 1
     - _DstBlend: 0
@@ -98,7 +98,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1
-    - _IndirectIntensity: 0.369
+    - _IndirectIntensity: 0
     - _IndirectIntensityOutline: 0
     - _MatCapMaskChannel: 0
     - _MatCapType: 0
@@ -117,13 +117,13 @@ Material:
     - _OutlineTextureType: 0
     - _OutlineWidth: 10
     - _Parallax: 0.02
-    - _RampBands: 1
-    - _RampBandsSmoothing: 0
+    - _RampBands: 7
+    - _RampBandsSmoothing: 0.434
     - _RampOffset: 0
     - _RampScale: 1
-    - _RampSmoothing: 0
-    - _RampThreshold: 0.01
-    - _RampType: 0
+    - _RampSmoothing: 0.583
+    - _RampThreshold: 0.832
+    - _RampType: 2
     - _ReceiveShadowsOff: 1
     - _ReflectionMapType: 0
     - _ReflectionSmoothness: 0.5
@@ -149,7 +149,7 @@ Material:
     - _UseMobileMode: 0
     - _UseNormalMap: 0
     - _UseOcclusion: 0
-    - _UseOutline: 1
+    - _UseOutline: 0
     - _UseReflections: 0
     - _UseRim: 0
     - _UseRimLightMask: 1
@@ -157,7 +157,7 @@ Material:
     - _UseSpecular: 0
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.8971036, g: 0.3160377, b: 1, a: 1}
+    - _BaseColor: {r: 1, g: 0.51084447, b: 0, a: 1}
     - _Color: {r: 0.28627455, g: 0.23921567, b: 0.19607842, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HColor: {r: 1, g: 1, b: 1, a: 1}
@@ -165,6 +165,6 @@ Material:
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
     - _RimColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.5}
-    - _SColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _SColor: {r: 0.05660379, g: 0.05660379, b: 0.05660379, a: 1}
     - _SpecularColor: {r: 0.75, g: 0.75, b: 0.75, a: 1}
   m_BuildTextureStacks: []
